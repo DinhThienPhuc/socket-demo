@@ -4,8 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "colors": "^1.1.2",
-    "prompt": "^1.0.0",
-    "zmq": "^2.15.3"
+    "colors": "^1.4.0",
+    "prompt": "^1.0.0"
   }
 }
